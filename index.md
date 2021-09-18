@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to sk8boreddad's GitHub Page!
+
+I am a 43 year old warehouse employee and EMT who is teaching himself to code in the hopes of a financially brighter future!
 
 You can use the [editor on GitHub](https://github.com/sk8boreddad/sk8boreddad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
